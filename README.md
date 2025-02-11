@@ -1,2 +1,2 @@
 # ML-Semester-Project
-A project done during the first semester of 2024-2025 for my ML class.
+A project done during the first semester of 2024-2025 for my ML class. Done By Thomas Daniel, Julien De Vos, Théo Chichery and me (Jean Marchegay). In this project we studied a a dataset found on kaggle: https://www.kaggle.com/competitions/energy-forecasting-data-challenge-public/data?select=sample_submission.csv This project was submitted in 4 stages that each went further and used more complex models. Each stage includes a jupyter notebook and a pdf file that describes the stpes taken and the results we got.
